@@ -17,7 +17,7 @@ nvcc saturation.cu main.cu -o main $(pkg-config --cflags --libs opencv); ./main
 ### Sample Image Run 
 
 #### Initial Image
-<img src = "./farmImg.webp" style = "zoom:50%">
+<img src = "./farmImg.webp" style = "zoom:50%;">
 
 #### Output Image
-<img src = "./outputImage.webp" style = "zoom:50%">
+<img src = "./outputImage.webp" style = "zoom:50%;">
